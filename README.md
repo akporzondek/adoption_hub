@@ -1,4 +1,4 @@
-# The Adoption App - Boost all of your adoption efforts with a single app 
+# The Adoption App: Boost all of your adoption efforts with a single app 
 
 | [Deployment guide](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide) |
 | ---- |
