@@ -21,7 +21,7 @@ Overview of the published tabs
 
 ![About](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_about.PNG)
 
-Modify to incororate your own adoption programs
+The Adoption App can be easily modified to incororate your own adoption programs like the examples below
 
 ![Cerner](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_cerner.PNG)
 
