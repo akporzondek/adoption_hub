@@ -31,7 +31,8 @@ Feedback Form - Add a survey with MS Forms to capture end user input on MS Teams
 
 ![About](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_about.PNG)
 
-The Adoption App can be easily modified to incorporate your own adoption programs like the examples below
+Think about adding additional tabs to other technology learning tools that end users can access.
+To minimize tabs, consider a single tab pointing to a site with the list/logos/links of supported technology.
 
 ![Cerner](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_cerner.PNG)
 
