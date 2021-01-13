@@ -7,8 +7,6 @@ The Adoption App is an easy to create custom app that leverages Teams as a Platf
 
 ![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/app_overview.PNG)
 
-Overview of the published tabs
-
 Technology Home - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
 
 ![Technology Home](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_technology_home.PNG)
