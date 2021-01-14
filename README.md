@@ -1,4 +1,4 @@
-# The Adoption App: Boost your adoption efforts with a single Teams app 
+# The Adoption App: Boost your adoption efforts with a single MS Teams app 
 
 | [Deployment guide](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide) | [What's Next?](https://github.com/akporzondek/adoption_app/wiki/Coming-soon) |
 | ---- | ---- |
