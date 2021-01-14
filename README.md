@@ -1,6 +1,6 @@
 # The Adoption App: Boost your adoption efforts with a single Teams app 
 
-| [Deployment guide](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide) | [Coming soon](https://github.com/akporzondek/adoption_app/wiki/Coming-soon) |
+| [Deployment guide](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide) | [What's Next?](https://github.com/akporzondek/adoption_app/wiki/Coming-soon) |
 | ---- | ---- |
 
 The Adoption App is an easy to create custom app that leverages Teams as a Platform to ramp up end users on various technology platforms quickly, enabling organizations to realize the breadth and power of their technology. 
