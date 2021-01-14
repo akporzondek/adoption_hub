@@ -5,6 +5,8 @@
 
 The Adoption App is an easy to create custom app that leverages Teams as a Platform to ramp up end users on various technology platforms quickly, enabling organizations to realize the breadth and power of their technology. 
 
+Checkout the [LinkedIn Post](https://www.linkedin.com/pulse/boost-your-technology-adoption-efforts-single-ms-teams-john-pan/?trackingId=pd9XqJ24XEJdzYck%2B4Yi0g%3D%3D)
+
 ![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/app_overview.PNG)
 
 **Technology Home** - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
