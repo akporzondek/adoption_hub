@@ -11,7 +11,7 @@ The Adoption App is an easy to create custom app that leverages Teams as a Platf
 
 ![Technology Home](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_technology_home.PNG)
 
-**Instructor-led Training** - Working with the MS Retail Stores, you can get a schedule of classes that covers the many areas of the MS Modern Work productivity suite (MS Teams, SharePoint, Power Platform, etc)
+**Instructor-led Training** - Working with the MS Retail Stores, you can get a schedule of classes that covers the many areas of the MS Modern Work productivity suite (MS Teams, SharePoint, Power Platform, etc).
 
 ![Instructor-led Training](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_instructorled.PNG)
 
