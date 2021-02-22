@@ -5,7 +5,7 @@
 
 The Adoption Hub is an easy to create custom app that leverages Teams as a Platform to ramp up end users on various technology platforms quickly, enabling organizations to realize the breadth and power of their technology. 
 
-![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview.PNG)
+![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_2.PNG)
 
 **Technology Home** - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
 
