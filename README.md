@@ -5,7 +5,9 @@
 
 The **Adoption Hub** is an easy to import and modify MS Teams app that leverages Teams as a Platform to ramp up end users on various technology platforms quickly, enabling organizations to realize the breadth and power of their technology. We encourage you to even change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the naming convention of **_Your Org Name_Ready**, ContosoReady as an example.
 
-Per our most recently published LinkedIn article, we have now enhanced the app to include support for a conversational bot, thus the renaming to **Adoption Hub**. We encourage everyone to take advantage of the full solution and thus follow the instructions in the [Adoption Hub deployment guide](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-Hub). Our first version, the Adoption App, is still available for you to deploy and detailed instructions can be found in the Adoption App deployment guide. 
+Per our most recently published LinkedIn article, we have now enhanced the app to include support for a conversational bot, thus the renaming to **Adoption Hub**. We encourage everyone to take advantage of the full solution and thus follow the instructions in the [Adoption Hub deployment guide](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-Hub). 
+
+Our first version, the Adoption App (which includes support for GCC tenants), is still available for you to deploy and detailed instructions can be found in the Adoption App deployment guide.
 
 ![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_2.PNG)
 
