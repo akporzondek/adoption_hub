@@ -11,23 +11,23 @@ The Adoption Hub is an easy to create custom app that leverages Teams as a Platf
 
 **Technology Home** - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
 
-![Technology Home](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_technology_home.PNG)
+![Technology Home](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_technology_home_2.PNG)
 
 **Instructor-led Training** - Working with the MS Retail Stores, you can get a schedule of classes that covers the many areas of the MS Modern Work productivity suite (MS Teams, SharePoint, Power Platform, etc).
 
-![Instructor-led Training](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_instructorled.PNG)
+![Instructor-led Training](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_instructor_led_2.PNG)
 
 **MS Learning Pathways** - Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.
 
-![MS Learning Pathways](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_mslearningpathways.PNG)
+![MS Learning Pathways](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_mslearning_pathways_2.PNG)
 
 **MS Teams How-To** - Quick videos on the varying tasks and features that are available to you in MS Teams.
 
-![MS Teams How-To](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_msteams_howto.PNG)
+![MS Teams How-To](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_msteams_howto_2.PNG)
 
 **Feedback Form** - Add a survey with MS Forms to capture end user input on MS Teams or any type of feedback that may be required on other projects and/or technologies.
 
-![Feedback Form](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_feedbackform.PNG)
+![Feedback Form](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_feedback_form_2.PNG)
 
 ![About](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_about.PNG)
 
