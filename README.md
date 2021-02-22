@@ -3,7 +3,7 @@
 | [Deployment Guide: Adoption App](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-App) | [Deployment Guide: Adoption Hub](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-Hub) | [What's Next](https://github.com/akporzondek/adoption_app/wiki/What's-Next) | [LinkedIn Post](https://www.linkedin.com/pulse/boost-your-technology-adoption-efforts-single-ms-teams-john-pan/?trackingId=pd9XqJ24XEJdzYck%2B4Yi0g%3D%3D) |
 | ---- | ---- | ---- | ---- |
 
-The Adoption Hub is an easy to import and modify MS Teams app that leverages Teams as a Platform to ramp up end users on various technology platforms quickly, enabling organizations to realize the breadth and power of their technology. We encourage you to even change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the name: **<Your Org Name> Ready (Contoso Ready)** as an example.
+The Adoption Hub is an easy to import and modify MS Teams app that leverages Teams as a Platform to ramp up end users on various technology platforms quickly, enabling organizations to realize the breadth and power of their technology. We encourage you to even change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the name: **-Your Org Name- Ready (Contoso Ready)** as an example.
 
 ![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_2.PNG)
 
