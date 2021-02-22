@@ -7,7 +7,7 @@ The Adoption Hub is an easy to create custom app that leverages Teams as a Platf
 
 ![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_2.PNG)
 
-**Chat** - Add your own Bot or add Timon! An available customizable natural language bot for answers to commonly asked questions .
+**Chat** - Add your own Bot or add **Timon!** An available customizable natural language bot for answers to commonly asked questions .
 
 **Technology Home** - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
 
