@@ -1,6 +1,6 @@
 # The Adoption Hub: Boost your adoption efforts with a single MS Teams app 
 
-| [Deployment Guide: Adoption Hub](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-Hub) | [Deployment Guide: Adoption App](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-App) | [What's Next](https://github.com/akporzondek/adoption_app/wiki/What's-Next) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6769973449965228033/) |
+| [Deployment Guide: Adoption Hub](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-Hub) | [Deployment Guide: Adoption App](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-App) | [What's Next](https://github.com/akporzondek/adoption_app/wiki/What's-Next) | [LinkedIn Post](https://www.linkedin.com/posts/johncpan_upperleft-innovation-modernwork-activity-6769973449965228033-ij6u) |
 | ---- | ---- | ---- | ---- |
 
 The **Adoption Hub** is an easy to import and modify MS Teams app that leverages Teams as a Platform to ramp up end users on various technology platforms quickly, enabling organizations to realize the breadth and power of their technology. 
