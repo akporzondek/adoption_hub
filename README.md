@@ -9,7 +9,7 @@ Per our most recently published LinkedIn article, we have now enhanced the app t
 
 Our first version, the Adoption App (which includes support for GCC tenants), is still available for you to deploy and detailed instructions can be found in the Adoption App deployment guide.
 
-We encourage you to even change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the naming convention of **_Your Org Name_Ready**, ContosoReady as an example.
+We encourage you to even change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the naming convention of **YourOrgNameReady**, **ContosoReady** as an example.
 
 ![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_2.PNG)
 
