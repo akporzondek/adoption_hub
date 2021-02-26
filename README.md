@@ -11,6 +11,8 @@ Our first version, the Adoption App (which includes support for GCC tenants), is
 
 We encourage you to change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the naming convention of **YourOrgNameReady**, **ContosoReady** as an example.
 
+![Hub Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview.PNG)
+
 ![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_2.PNG)
 
 **Chat** - Add **Timon** or your own Bot! Timon is an available and fully customizable natural language bot for answers to commonly asked questions about Teams (above).
