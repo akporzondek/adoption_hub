@@ -13,7 +13,7 @@ We encourage you to change the name of the app to reflect how you will use it wi
 
 ![App Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_2.PNG)
 
-**Chat** - Add your own Bot or add **Timon!** An available customizable natural language bot for answers to commonly asked questions (above).
+**Chat** - Add **Timon** or your own Bot! Timon is an available and fully customizable natural language bot for answers to commonly asked questions about Teams (above).
 
 **Technology Home** - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
 
