@@ -13,7 +13,7 @@ We encourage you to change the name of the app to reflect how you will use it wi
 
 ![Hub Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_circles.PNG)
 
-**Chat** - Add **Timon** or your own Bot! Timon is an available and fully customizable natural language bot for answers to commonly asked questions about Teams (above).
+**Chat** - Add **[Adoption Bot](https://github.com/OfficeDev/microsoft-teams-apps-adopt-bot)**, **Timon** or your own Bot! Timon is an available and fully customizable natural language bot for answers to commonly asked questions about Teams (above).
 
 **Technology Home** - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
 
