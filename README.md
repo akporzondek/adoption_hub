@@ -18,7 +18,7 @@ We encourage you to change the name of the app to reflect how you will use it wi
 
 ![Hub Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_circles.PNG)
 
-**Chat** - Add an interactive and customizable natural language bot for answers to commonly asked questions. If you don't have your own bot, consider the **[Adoption Bot](https://github.com/OfficeDev/microsoft-teams-apps-adopt-bot)**, or **[Timon](https://sway.office.com/RhKSBJ4TehvB8s5W?ref=Link)** (pictured above), which includes thousands of enhancements to optimize the interactive experience for your community. 
+**Chat** - Add an interactive and customizable natural language bot for answers to commonly asked questions. If you don't have your own bot, consider the **[Adoption Bot](https://github.com/OfficeDev/microsoft-teams-apps-adopt-bot)**, or **[Timon](https://sway.office.com/RhKSBJ4TehvB8s5W?ref=Link)**. 
 
 **Technology Home** - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
 
