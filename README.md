@@ -1,5 +1,10 @@
 # The Adoption Hub: Boost your adoption efforts with a single MS Teams app 
 
+**Note** - Adoption App "V1" vs. Adoption Hub "V2"
+
+* **Adoption App** - The original app that only utilizes personal tabs to curate learning information and is also GCC friendly.
+* **Adoption Hub** - The evolved version of the app that now incorporates the use of bots, such as Timon (pictured).
+
 | [Deployment Guide: Adoption Hub](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-Hub) | [Deployment Guide: Adoption App (GCC Support)](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-App) | [What's Next](https://github.com/akporzondek/adoption_app/wiki/What's-Next) | [LinkedIn Post](https://www.linkedin.com/posts/johncpan_upperleft-innovation-modernwork-activity-6769973449965228033-ij6u) |
 | ---- | ---- | ---- | ---- |
 
@@ -13,7 +18,7 @@ We encourage you to change the name of the app to reflect how you will use it wi
 
 ![Hub Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_circles.PNG)
 
-**Chat** - Add **[Adoption Bot](https://github.com/OfficeDev/microsoft-teams-apps-adopt-bot)**, **Timon** or your own Bot! Timon is an available and fully customizable natural language bot for answers to commonly asked questions about Teams (above).
+**Chat** - Add an interactive and customizable natural language bot for answers to commonly asked questions. If you don't have your own bot, consider the **[Adoption Bot](https://github.com/OfficeDev/microsoft-teams-apps-adopt-bot)**, or **[Timon](https://sway.office.com/RhKSBJ4TehvB8s5W?ref=Link)**, pictured above, which includes thousands of enhancements to optimize the interactive experience for your community. 
 
 **Technology Home** - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
 
