@@ -30,7 +30,7 @@ We encourage you to change the name of the app to reflect how you will use it wi
 
 **MS Learning Pathways** - Microsoft 365 learning pathways is a customizable, on-demand learning solution designed to increase usage and adoption of Microsoft 365 services in your organization.
 
-![MS Learning Pathways](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_learning_pathways_2.PNG)
+![MS Learning Pathways](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_learning_pathways.PNG)
 
 **MS Teams How-To** - Quick videos on the varying tasks and features that are available to you in MS Teams.
 
