@@ -44,5 +44,5 @@ Now let's paint the picture of how the Adoption Hub can assist with other techno
 
 How about hosting any instructor-led trainings that could be offered? Add additional columns to support Vendor selection: Microsoft, Workday, Epic, Cerner, ServiceNow, etc.
 
-![Instructor-led Training](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_instructorled2.PNG)
+![Instructor-led Training](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_instructor_led.PNG)
 
