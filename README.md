@@ -46,9 +46,3 @@ How about hosting any instructor-led trainings that could be offered? Add additi
 
 ![Instructor-led Training](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_instructorled2.PNG)
 
-Think about adding additional tabs to other technology learning tools that end users can access.
-To minimize tabs, consider a single tab pointing to a site with the list/logos/links of supported technology.
-
-![Cerner](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_cerner.PNG)
-
-![Epic](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_epic.PNG)
