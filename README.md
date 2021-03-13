@@ -42,7 +42,7 @@ We encourage you to change the name of the app to reflect how you will use it wi
 
 Now let's paint the picture of how the Adoption Hub can assist with other technologies...
 
-![Learning Pathways](https://github.com/akporzondek/adoption_app/raw/main/readme_images/Readme_learning_pathways_2.PNG)
+![Learning Pathways](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_learning_pathways.PNG)
 
 How about hosting any instructor-led trainings that could be offered? Add additional columns to support Vendor selection: Microsoft, Workday, Epic, Cerner, ServiceNow, etc.
 
