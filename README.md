@@ -1,6 +1,8 @@
 # The Adoption Hub: Boost your adoption efforts with a single MS Teams app 
 
-## Check out our recently added [FAQ for the Adoption Hub!](https://github.com/akporzondek/adoption_hub/wiki/Frequently-Asked-Questions)
+## Would you like complmentary assistance deploying the Adoption Hub? Our partner **CrossFuze** is ready to help. [Click here to learn more and to request assistance](https://pages.crossfuze.com/microsoft-teams-adoption-hub-implementation-guidance-by-crossfuze)
+
+**Check out our recently added [FAQ for the Adoption Hub!](https://github.com/akporzondek/adoption_hub/wiki/Frequently-Asked-Questions)**
 
 **Note** - Adoption App "V1" vs. Adoption Hub "V2"
 
