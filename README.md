@@ -24,7 +24,7 @@ We encourage you to change the name of the app to reflect how you will use it wi
 
 **Chat** - Add an interactive and customizable natural language bot for answers to commonly asked questions. If you don't have your own bot, consider the **[Adoption Bot](https://github.com/OfficeDev/microsoft-teams-apps-adopt-bot)**, or **[Timon](https://sway.office.com/RhKSBJ4TehvB8s5W?ref=Link)**. 
 
-**Technology Home** - Landing page for IT/IS related topics and procedures related to requests and/or support tickets.
+**Technology Home** - Dedicate this tab to your own modern SharePoint communication site. Maybe you already have a landing page for your adoption project? Publish it here  in the Adoption Hub! Can also be great way to redirect your users to other sites or resources as well like a link to open support tickets.
 
 ![Technology Home](https://github.com/akporzondek/adoption_app/raw/main/readme_images/readme_technology_home_2.PNG)
 
