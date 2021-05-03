@@ -2,7 +2,7 @@
 
 ### Would you like complmentary assistance deploying the Adoption Hub? Our partner **CrossFuze** is ready to help. [Click here to learn more and to request assistance from CrossFuze](https://pages.crossfuze.com/microsoft-teams-adoption-hub-implementation-guidance-by-crossfuze).
 
-**Check out our recently added [FAQ for the Adoption Hub!](https://github.com/akporzondek/adoption_hub/wiki/Frequently-Asked-Questions)**
+**ALSO Check out our recently added [FAQ for the Adoption Hub!](https://github.com/akporzondek/adoption_hub/wiki/Frequently-Asked-Questions)**
 
 **Note** - Adoption App "V1" vs. Adoption Hub "V2"
 
