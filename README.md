@@ -1,12 +1,14 @@
 # The Adoption Hub: Boost your adoption efforts with a single MS Teams app 
 
+[Check out our recently added FAQ for the Adoption Hub!](https://github.com/akporzondek/adoption_hub/wiki/Frequently-Asked-Questions)
+
 **Note** - Adoption App "V1" vs. Adoption Hub "V2"
 
 * **Adoption App** - The original app that only utilizes personal tabs to curate learning information and is also GCC friendly.
 * **Adoption Hub** - The evolved version of the app that now incorporates the use of bots, such as Timon (pictured).
 
-| [Deployment Guide: Adoption Hub](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-Hub) | [Deployment Guide: Adoption App (GCC Support)](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-App) | [What's Next](https://github.com/akporzondek/adoption_app/wiki/What's-Next) | [LinkedIn Post](https://www.linkedin.com/posts/johncpan_upperleft-innovation-modernwork-activity-6769973449965228033-ij6u) |
-| ---- | ---- | ---- | ---- |
+| [Deployment Guide: Adoption Hub](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-Hub) | [Deployment Guide: Adoption App (GCC Support)](https://github.com/akporzondek/adoption_app/wiki/Deployment-Guide_Adoption-App) | [What's Next](https://github.com/akporzondek/adoption_app/wiki/What's-Next) | [LinkedIn Post](https://www.linkedin.com/posts/johncpan_upperleft-innovation-modernwork-activity-6769973449965228033-ij6u) | [FAQ](https://github.com/akporzondek/adoption_hub/wiki/Frequently-Asked-Questions)
+| ---- | ---- | ---- | ---- | ---- |
 
 The **Adoption Hub** is an easy to import and modify MS Teams app that leverages Teams as a Platform to ramp up end users on various technology platforms quickly, enabling organizations to realize the breadth and power of their technology. 
 
