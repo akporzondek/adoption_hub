@@ -18,7 +18,7 @@ Per our most [recently published LinkedIn article](https://www.linkedin.com/puls
 
 Our first version, the Adoption App (which includes support for GCC tenants), is still available for you to deploy and detailed instructions can be found in the Adoption App deployment guide.
 
-We encourage you to change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the naming convention of **YourOrgNameReady**, **ContosoReady** as an example.
+We encourage you to change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the naming convention of **YourOrgNameReady**, **ContosoReady** as an example. Others have created contests to allow the user community to pick the name for the org!
 
 ![Hub Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_circles.PNG)
 
