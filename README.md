@@ -20,6 +20,8 @@ Our first version, the Adoption App (which includes support for GCC tenants), is
 
 We encourage you to change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the naming convention of **YourOrgNameReady**, **ContosoReady** as an example. Others have created contests to allow their user community to pick the name for the org! What will you name your version of the Adoption Hub?
 
+**Our friends at [Squigl](https://squiglit.com/) created this amazing video that provides an overview of the Adoption Hub, click below to watch!**
+
 [![Adoption Hub Tutorial](https://user-images.githubusercontent.com/54183513/117980506-092a3680-b302-11eb-90ae-73033604460a.GIF)](https://www.youtube.com/watch?v=SIM0KVXxQT0)
 
 ![Hub Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_circles.PNG)
