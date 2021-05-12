@@ -20,8 +20,6 @@ Our first version, the Adoption App (which includes support for GCC tenants), is
 
 We encourage you to change the name of the app to reflect how you will use it within your organization. Many organizations have adopted the naming convention of **YourOrgNameReady**, **ContosoReady** as an example. Others have created contests to allow their user community to pick the name for the org! What will you name your version of the Adoption Hub?
 
-[![Adoption Hub Tutorial](https://img.youtube.com/vi/g6YNR2QbHCs/0.jpg)](https://www.youtube.com/watch?v=g6YNR2QbHCs)
-
 ![Hub Overview](https://github.com/akporzondek/adoption_app/raw/main/readme_images/hub_overview_circles.PNG)
 
 **Chat** - Add an interactive and customizable natural language bot for answers to commonly asked questions. If you don't have your own bot, consider the **[Adoption Bot](https://github.com/OfficeDev/microsoft-teams-apps-adopt-bot)**, or **[Timon](https://sway.office.com/RhKSBJ4TehvB8s5W?ref=Link)**. 
