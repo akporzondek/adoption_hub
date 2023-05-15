@@ -2,7 +2,6 @@
 
 ### Would you like to deploy your own Adoption Hub? We have a number of ways to help you get started! ###
 
-* [For complimentary 1:1 guided assistance, engage our partner CrossFuze (for U.S. based organizations)](https://pages.crossfuze.com/microsoft-teams-adoption-hub-implementation-guidance-by-crossfuze)
 * [For 1:many guided assistance, join our May Adoption Hub Webinar series](https://aka.ms/adoptionhub/webinars)
 * Or follow our Deployment Guide linked below
 
