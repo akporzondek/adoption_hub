@@ -1,11 +1,6 @@
 # The Adoption Hub: Boost your adoption efforts with a single MS Teams app 
 
-### Would you like to deploy your own Adoption Hub? We have a number of ways to help you get started! ###
-
-* [For 1:many guided assistance, join our May Adoption Hub Webinar series](https://aka.ms/adoptionhub/webinars)
-* Or follow our Deployment Guide linked below
-
-**ALSO check out our recently added [FAQ for the Adoption Hub!](https://github.com/akporzondek/adoption_hub/wiki/Frequently-Asked-Questions)**
+**Review our [FAQ for the Adoption Hub!](https://github.com/akporzondek/adoption_hub/wiki/Frequently-Asked-Questions)**
 
 **Note** - Adoption App "V1" vs. Adoption Hub "V2"
 
